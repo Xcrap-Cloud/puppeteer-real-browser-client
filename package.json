@@ -1,6 +1,6 @@
 {
   "name": "@xcrap/puppeteer-real-browser-client",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Xcrap Puppeteer Real Browser Client is a package of the Xcrap framework that implements an HTTP client using the Puppeteer Real Browser library.",
   "main": "./dist/index.js",
   "module": "./dist/index.js",
