@@ -24,15 +24,15 @@
   "license": "MIT",
   "type": "commonjs",
   "peerDependencies": {
-    "@xcrap/core": "*",
-    "@xcrap/parser": "*"
+    "@xcrap/core": "^0.2.1",
+    "@xcrap/parser": "^0.1.11"
   },
   "devDependencies": {
-    "@types/node": "^24.0.12",
+    "@types/node": "^24.10.12",
     "ts-node": "^10.9.2",
-    "typescript": "^5.8.3"
+    "typescript": "^5.9.3"
   },
   "dependencies": {
-    "puppeteer-real-browser": "^1.4.2"
+    "puppeteer-real-browser": "^1.4.4"
   }
 }
